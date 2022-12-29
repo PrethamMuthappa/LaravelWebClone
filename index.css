@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'type1';
+    src: url(/fonts/Scandia-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'type2';
+    src: url(/fonts/Scandia-Light.ttf);
+
+}
+
+@font-face {
+    font-family: 'type3';
+    src: url(/fonts/Scandia-Regular.ttf);
+}
+
+#img
+{
+    display: flex;
+    flex-wrap: wrap;
+    bdorder: 2px solid black;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    padding: 20px;
+    
+    
+}
+
+#forge
+
+{
+  margin-left: auto;
+  margin-right: 43px;
+
+  font-family: 'type3';
+    
+}
+
+#vapor
+{
+
+    margin-right: 50px;
+    font-family: 'type3';
+}
+
+#partner
+{
+    margin-right: auto;
+    font-family: 'type3';
+}
+
+#ecosystem
+{
+   margin-right: 50px;
+   font-family: 'type3';
+}
+
+#news
+{
+  margin-right: 50px;
+  font-family: 'type3';
+}
+
+#partner
+{
+
+margin-right: auto;
+font-family: 'type3';
+}
+
+#mag
+{
+    margin-right: 3px;
+    margin-bottom: 9px;
+}
+
+#but
+{
+    margin-right: auto;
+
+    border-color: red;
+
+    width: 150px;
+    height: 40px;
+
+}
+
+#doc
+{
+
+    text-decoration: none;
+    font-family: 'type1';
+    color: red;
+}
+#logo
+{
+    margin-left: auto;
+}
+
+#name
+{
+  margin-left: 10px;
+}
+
+#para
+{
+
+    display: flex;
+   bsorder: 2px solid black;
+    flex-direction: row;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    flex-wrap: wrap;
+   
+    
+    justify-content: center;
+}
+
+#h1
+{
+
+
+    font-size: 50px;
+    font-family: 'type1';
+}
+
+#span2
+{
+    color: red;
+    margin-left: 37px;
+}
+
+#words
+{
+    font-family: 'type3';
+    font-size: 19px;
+    margin-top: -70px;
+}
+
+#get
+{
+    height: 40px;
+    margin-right: 5px;
+    margin-bottom: 80px;
+    background-color: red;
+    border-color: red;
+}
+
+#lara
+{
+  height: 40px;
+  margin-bottom: 80px;
+  border-color: red;
+}
+
+#getstarted
+{
+    text-decoration: none;
+    color: white;
+    font-family: 'type1';
+}
+
+#laracast
+{
+    text-decoration: none;
+    color: red;
+    font-family: 'type1';
+}
+
+#sponsers{
+
+    display: flex;
+    bdorder: 2px solid black;
+    column-gap: 33px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+
+#insidetext{ 
+    baorder: 3px solid black; 
+    width: fit-content; 
+    height: fit-content;
+    margin-top: 100px;
+    
+ }
+#container{
+    display: flex;  
+    flex-wrap: wra;
+    flex-direction: row;
+}
+
+#picture {
+    boarder: 3px solid black; 
+    width: fit-content; 
+    height: fit-content;
+}
+
+#intext
+{
+  font-family: 'type1';
+  font-style: bold;
+  margin-left: 100px;
+ 
+
+}
+
+#inpara
+{
+    
+    font-family: 'type3';
+    font-size: medium;
+    margin-left: 80px;
+
+}
+
+#inbutton
+{
+
+   margin-left: 84px;
+   font-family: 'type1';
+   width: 138px;
+   color: red;
+   font-size: medium;
+   border-color: red;
+   height: 40px;
+
+}
